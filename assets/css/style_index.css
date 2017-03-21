@@ -1,0 +1,68 @@
+/* Carousel Style */
+	#main-carousel
+	{
+	background-color:black;
+	}
+	
+	#main-section-bar
+	{
+	/*background-color:#032850;*/
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	padding-bottom:15px;
+	opacity:0.9;
+	}
+
+	#sub-section-bar
+	{
+	/*background-color:#032850;*/
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	padding-bottom:15px;
+	border-bottom: 3px solid #d00000;
+	border-top:3px solid #d00000;
+	opacity:0.9;
+	}
+
+	.carousel-inner img 
+	{
+	margin: auto;
+	}
+
+/* Card Style */
+	.card-row
+	{
+	margin-left:auto;
+	margin-right:auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color:#eeeeee;
+
+	}
+	
+	.card-img-top
+	{
+	width:75%;
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	height:auto;
+	}
+	
+	.card
+	{
+	word-wrap: break-word;
+	height:100%;
+	}
+	
+	.card p, h3
+	{
+	font-size: 95%;
+	}
+	
+	.card-style
+	{
+	margin-top: 25px;
+	}
